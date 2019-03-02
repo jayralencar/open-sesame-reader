@@ -1,0 +1,496 @@
+[
+    {
+        "frames": [
+            {
+                "frame_elements": [
+                    {
+                        "word_id": 1,
+                        "word": "you",
+                        "frame_element": "S-Owner"
+                    },
+                    {
+                        "word_id": 3,
+                        "word": "to",
+                        "frame_element": "B-Possession"
+                    },
+                    {
+                        "word_id": 4,
+                        "word": "go",
+                        "frame_element": "I-Possession"
+                    },
+                    {
+                        "word_id": 5,
+                        "word": "and",
+                        "frame_element": "I-Possession"
+                    },
+                    {
+                        "word_id": 6,
+                        "word": "clean",
+                        "frame_element": "I-Possession"
+                    },
+                    {
+                        "word_id": 7,
+                        "word": "your",
+                        "frame_element": "I-Possession"
+                    },
+                    {
+                        "word_id": 8,
+                        "word": "teeth",
+                        "frame_element": "I-Possession"
+                    },
+                    {
+                        "word_id": 9,
+                        "word": "after",
+                        "frame_element": "I-Possession"
+                    },
+                    {
+                        "word_id": 10,
+                        "word": "you",
+                        "frame_element": "I-Possession"
+                    },
+                    {
+                        "word_id": 11,
+                        "word": "eat",
+                        "frame_element": "I-Possession"
+                    },
+                    {
+                        "word_id": 12,
+                        "word": "those",
+                        "frame_element": "I-Possession"
+                    },
+                    {
+                        "word_id": 13,
+                        "word": "when",
+                        "frame_element": "I-Possession"
+                    },
+                    {
+                        "word_id": 14,
+                        "word": "i",
+                        "frame_element": "I-Possession"
+                    },
+                    {
+                        "word_id": 15,
+                        "word": "go",
+                        "frame_element": "I-Possession"
+                    },
+                    {
+                        "word_id": 16,
+                        "word": "home",
+                        "frame_element": "I-Possession"
+                    }
+                ],
+                "target": {
+                    "frame": "Possession",
+                    "word": "have",
+                    "word_id": 2
+                }
+            },
+            {
+                "frame_elements": [
+                    {
+                        "word_id": 7,
+                        "word": "your",
+                        "frame_element": "B-Theme"
+                    },
+                    {
+                        "word_id": 8,
+                        "word": "teeth",
+                        "frame_element": "I-Theme"
+                    }
+                ],
+                "target": {
+                    "frame": "Motion",
+                    "word": "go",
+                    "word_id": 4
+                }
+            },
+            {
+                "frame_elements": [
+                    {
+                        "word_id": 6,
+                        "word": "clean",
+                        "frame_element": "B-Event"
+                    },
+                    {
+                        "word_id": 7,
+                        "word": "your",
+                        "frame_element": "I-Event"
+                    },
+                    {
+                        "word_id": 8,
+                        "word": "teeth",
+                        "frame_element": "I-Event"
+                    },
+                    {
+                        "word_id": 10,
+                        "word": "you",
+                        "frame_element": "B-Event"
+                    },
+                    {
+                        "word_id": 11,
+                        "word": "eat",
+                        "frame_element": "I-Event"
+                    },
+                    {
+                        "word_id": 12,
+                        "word": "those",
+                        "frame_element": "I-Event"
+                    },
+                    {
+                        "word_id": 13,
+                        "word": "when",
+                        "frame_element": "I-Event"
+                    },
+                    {
+                        "word_id": 14,
+                        "word": "i",
+                        "frame_element": "I-Event"
+                    },
+                    {
+                        "word_id": 15,
+                        "word": "go",
+                        "frame_element": "I-Event"
+                    },
+                    {
+                        "word_id": 16,
+                        "word": "home",
+                        "frame_element": "I-Event"
+                    }
+                ],
+                "target": {
+                    "frame": "Time_vector",
+                    "word": "after",
+                    "word_id": 9
+                }
+            },
+            {
+                "frame_elements": [
+                    {
+                        "word_id": 10,
+                        "word": "you",
+                        "frame_element": "S-Ingestor"
+                    },
+                    {
+                        "word_id": 12,
+                        "word": "those",
+                        "frame_element": "B-Ingestibles"
+                    },
+                    {
+                        "word_id": 13,
+                        "word": "when",
+                        "frame_element": "I-Ingestibles"
+                    },
+                    {
+                        "word_id": 14,
+                        "word": "i",
+                        "frame_element": "I-Ingestibles"
+                    },
+                    {
+                        "word_id": 15,
+                        "word": "go",
+                        "frame_element": "I-Ingestibles"
+                    },
+                    {
+                        "word_id": 16,
+                        "word": "home",
+                        "frame_element": "I-Ingestibles"
+                    }
+                ],
+                "target": {
+                    "frame": "Ingestion",
+                    "word": "eat",
+                    "word_id": 11
+                }
+            },
+            {
+                "frame_elements": [
+                    {
+                        "word_id": 14,
+                        "word": "i",
+                        "frame_element": "S-Theme"
+                    },
+                    {
+                        "word_id": 16,
+                        "word": "home",
+                        "frame_element": "S-Goal"
+                    }
+                ],
+                "target": {
+                    "frame": "Motion",
+                    "word": "go",
+                    "word_id": 15
+                }
+            },
+            {
+                "frame_elements": [
+                    {
+                        "word_id": 16,
+                        "word": "home",
+                        "frame_element": "S-Building"
+                    }
+                ],
+                "target": {
+                    "frame": "Buildings",
+                    "word": "home",
+                    "word_id": 16
+                }
+            }
+        ],
+        "sentence_id": 0
+    },
+    {
+        "frames": [
+            {
+                "frame_elements": [
+                    {
+                        "word_id": 4,
+                        "word": "you",
+                        "frame_element": "S-Entity_1"
+                    },
+                    {
+                        "word_id": 6,
+                        "word": "something",
+                        "frame_element": "B-Entity_2"
+                    },
+                    {
+                        "word_id": 7,
+                        "word": "to",
+                        "frame_element": "I-Entity_2"
+                    },
+                    {
+                        "word_id": 8,
+                        "word": "eat",
+                        "frame_element": "I-Entity_2"
+                    }
+                ],
+                "target": {
+                    "frame": "Similarity",
+                    "word": "like",
+                    "word_id": 5
+                }
+            },
+            {
+                "frame_elements": [
+                    {
+                        "word_id": 7,
+                        "word": "to",
+                        "frame_element": "B-Hedged_content"
+                    },
+                    {
+                        "word_id": 8,
+                        "word": "eat",
+                        "frame_element": "I-Hedged_content"
+                    }
+                ],
+                "target": {
+                    "frame": "Hedging",
+                    "word": "something",
+                    "word_id": 6
+                }
+            },
+            {
+                "frame_elements": [
+                    {
+                        "word_id": 6,
+                        "word": "something",
+                        "frame_element": "S-Ingestor"
+                    }
+                ],
+                "target": {
+                    "frame": "Ingestion",
+                    "word": "eat",
+                    "word_id": 8
+                }
+            }
+        ],
+        "sentence_id": 1
+    },
+    {
+        "frames": [
+            {
+                "frame_elements": [
+                    {
+                        "word_id": 1,
+                        "word": "i",
+                        "frame_element": "S-Agent"
+                    },
+                    {
+                        "word_id": 4,
+                        "word": "thing",
+                        "frame_element": "B-Act"
+                    },
+                    {
+                        "word_id": 5,
+                        "word": "they",
+                        "frame_element": "I-Act"
+                    },
+                    {
+                        "word_id": 6,
+                        "word": "eat",
+                        "frame_element": "I-Act"
+                    },
+                    {
+                        "word_id": 7,
+                        "word": "unk",
+                        "frame_element": "I-Act"
+                    },
+                    {
+                        "word_id": 8,
+                        "word": "for",
+                        "frame_element": "B-Purpose"
+                    },
+                    {
+                        "word_id": 9,
+                        "word": "their",
+                        "frame_element": "I-Purpose"
+                    },
+                    {
+                        "word_id": 10,
+                        "word": "breakfast",
+                        "frame_element": "I-Purpose"
+                    }
+                ],
+                "target": {
+                    "frame": "Intentionally_act",
+                    "word": "do",
+                    "word_id": 2
+                }
+            },
+            {
+                "frame_elements": [
+                    {
+                        "word_id": 1,
+                        "word": "i",
+                        "frame_element": "S-Entity"
+                    },
+                    {
+                        "word_id": 4,
+                        "word": "thing",
+                        "frame_element": "S-Entity"
+                    }
+                ],
+                "target": {
+                    "frame": "Entity",
+                    "word": "thing",
+                    "word_id": 4
+                }
+            },
+            {
+                "frame_elements": [
+                    {
+                        "word_id": 1,
+                        "word": "i",
+                        "frame_element": "S-Ingestor"
+                    },
+                    {
+                        "word_id": 5,
+                        "word": "they",
+                        "frame_element": "S-Ingestor"
+                    },
+                    {
+                        "word_id": 7,
+                        "word": "unk",
+                        "frame_element": "S-Ingestibles"
+                    }
+                ],
+                "target": {
+                    "frame": "Ingestion",
+                    "word": "eat",
+                    "word_id": 6
+                }
+            },
+            {
+                "frame_elements": [
+                    {
+                        "word_id": 7,
+                        "word": "unk",
+                        "frame_element": "S-Cognizer"
+                    },
+                    {
+                        "word_id": 9,
+                        "word": "their",
+                        "frame_element": "B-Side"
+                    },
+                    {
+                        "word_id": 10,
+                        "word": "breakfast",
+                        "frame_element": "I-Side"
+                    }
+                ],
+                "target": {
+                    "frame": "Taking_sides",
+                    "word": "for",
+                    "word_id": 8
+                }
+            }
+        ],
+        "sentence_id": 2
+    },
+    {
+        "frames": [
+            {
+                "frame_elements": [
+                    {
+                        "word_id": 1,
+                        "word": "what",
+                        "frame_element": "S-Agent"
+                    },
+                    {
+                        "word_id": 3,
+                        "word": "she",
+                        "frame_element": "B-Act"
+                    },
+                    {
+                        "word_id": 4,
+                        "word": "eat",
+                        "frame_element": "I-Act"
+                    }
+                ],
+                "target": {
+                    "frame": "Intentionally_act",
+                    "word": "did",
+                    "word_id": 2
+                }
+            },
+            {
+                "frame_elements": [
+                    {
+                        "word_id": 3,
+                        "word": "she",
+                        "frame_element": "S-Ingestor"
+                    }
+                ],
+                "target": {
+                    "frame": "Ingestion",
+                    "word": "eat",
+                    "word_id": 4
+                }
+            }
+        ],
+        "sentence_id": 3
+    },
+    {
+        "frames": [
+            {
+                "frame_elements": [
+                    {
+                        "word_id": 1,
+                        "word": "she",
+                        "frame_element": "S-Ingestor"
+                    },
+                    {
+                        "word_id": 3,
+                        "word": "porridge",
+                        "frame_element": "S-Ingestibles"
+                    }
+                ],
+                "target": {
+                    "frame": "Ingestion",
+                    "word": "ate",
+                    "word_id": 2
+                }
+            }
+        ],
+        "sentence_id": 4
+    }
+]
