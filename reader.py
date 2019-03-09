@@ -36,7 +36,9 @@ for sent in sentence_list:
                 _frame['target'] = {
                     "frame" : frame,
                     "word" : form,
-                    "word_id" : int(line_id)
+                    "word_id" : int(line_id),
+                    "pos": pos,
+                    "lemma": lemma
                 }
             if argument != "_" and argument != "O":
                 if 'frame_elements' not in _frame:
@@ -44,7 +46,9 @@ for sent in sentence_list:
                 _frame['frame_elements'].append({
                     "frame_element" : argument,
                     "word":form,
-                    'word_id':int(line_id)
+                    'word_id':int(line_id),
+                    'pos': pos,
+                    "lemma": lemma
                 })
                 
 

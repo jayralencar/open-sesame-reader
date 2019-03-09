@@ -4,493 +4,213 @@
             {
                 "frame_elements": [
                     {
+                        "lemma": "They",
                         "word_id": 1,
-                        "word": "you",
-                        "frame_element": "S-Owner"
-                    },
-                    {
-                        "word_id": 3,
-                        "word": "to",
-                        "frame_element": "B-Possession"
-                    },
-                    {
-                        "word_id": 4,
-                        "word": "go",
-                        "frame_element": "I-Possession"
-                    },
-                    {
-                        "word_id": 5,
-                        "word": "and",
-                        "frame_element": "I-Possession"
-                    },
-                    {
-                        "word_id": 6,
-                        "word": "clean",
-                        "frame_element": "I-Possession"
-                    },
-                    {
-                        "word_id": 7,
-                        "word": "your",
-                        "frame_element": "I-Possession"
-                    },
-                    {
-                        "word_id": 8,
-                        "word": "teeth",
-                        "frame_element": "I-Possession"
-                    },
-                    {
-                        "word_id": 9,
-                        "word": "after",
-                        "frame_element": "I-Possession"
-                    },
-                    {
-                        "word_id": 10,
-                        "word": "you",
-                        "frame_element": "I-Possession"
-                    },
-                    {
-                        "word_id": 11,
-                        "word": "eat",
-                        "frame_element": "I-Possession"
-                    },
-                    {
-                        "word_id": 12,
-                        "word": "those",
-                        "frame_element": "I-Possession"
-                    },
-                    {
-                        "word_id": 13,
-                        "word": "when",
-                        "frame_element": "I-Possession"
-                    },
-                    {
-                        "word_id": 14,
-                        "word": "i",
-                        "frame_element": "I-Possession"
-                    },
-                    {
-                        "word_id": 15,
-                        "word": "go",
-                        "frame_element": "I-Possession"
-                    },
-                    {
-                        "word_id": 16,
-                        "word": "home",
-                        "frame_element": "I-Possession"
-                    }
-                ],
-                "target": {
-                    "frame": "Possession",
-                    "word": "have",
-                    "word_id": 2
-                }
-            },
-            {
-                "frame_elements": [
-                    {
-                        "word_id": 7,
-                        "word": "your",
-                        "frame_element": "B-Theme"
-                    },
-                    {
-                        "word_id": 8,
-                        "word": "teeth",
-                        "frame_element": "I-Theme"
-                    }
-                ],
-                "target": {
-                    "frame": "Motion",
-                    "word": "go",
-                    "word_id": 4
-                }
-            },
-            {
-                "frame_elements": [
-                    {
-                        "word_id": 6,
-                        "word": "clean",
-                        "frame_element": "B-Event"
-                    },
-                    {
-                        "word_id": 7,
-                        "word": "your",
-                        "frame_element": "I-Event"
-                    },
-                    {
-                        "word_id": 8,
-                        "word": "teeth",
-                        "frame_element": "I-Event"
-                    },
-                    {
-                        "word_id": 10,
-                        "word": "you",
-                        "frame_element": "B-Event"
-                    },
-                    {
-                        "word_id": 11,
-                        "word": "eat",
-                        "frame_element": "I-Event"
-                    },
-                    {
-                        "word_id": 12,
-                        "word": "those",
-                        "frame_element": "I-Event"
-                    },
-                    {
-                        "word_id": 13,
-                        "word": "when",
-                        "frame_element": "I-Event"
-                    },
-                    {
-                        "word_id": 14,
-                        "word": "i",
-                        "frame_element": "I-Event"
-                    },
-                    {
-                        "word_id": 15,
-                        "word": "go",
-                        "frame_element": "I-Event"
-                    },
-                    {
-                        "word_id": 16,
-                        "word": "home",
-                        "frame_element": "I-Event"
-                    }
-                ],
-                "target": {
-                    "frame": "Time_vector",
-                    "word": "after",
-                    "word_id": 9
-                }
-            },
-            {
-                "frame_elements": [
-                    {
-                        "word_id": 10,
-                        "word": "you",
+                        "word": "they",
+                        "pos": "PRP",
                         "frame_element": "S-Ingestor"
                     },
                     {
-                        "word_id": 12,
-                        "word": "those",
+                        "lemma": "the",
+                        "word_id": 4,
+                        "word": "the",
+                        "pos": "DT",
                         "frame_element": "B-Ingestibles"
                     },
                     {
-                        "word_id": 13,
-                        "word": "when",
+                        "lemma": "UNK",
+                        "word_id": 5,
+                        "word": "eggs",
+                        "pos": "NNS",
                         "frame_element": "I-Ingestibles"
                     },
                     {
-                        "word_id": 14,
-                        "word": "i",
+                        "lemma": "of",
+                        "word_id": 6,
+                        "word": "of",
+                        "pos": "IN",
                         "frame_element": "I-Ingestibles"
                     },
                     {
-                        "word_id": 15,
-                        "word": "go",
+                        "lemma": "bird",
+                        "word_id": 7,
+                        "word": "birds",
+                        "pos": "NNS",
                         "frame_element": "I-Ingestibles"
                     },
                     {
-                        "word_id": 16,
-                        "word": "home",
+                        "lemma": "and",
+                        "word_id": 8,
+                        "word": "and",
+                        "pos": "CC",
+                        "frame_element": "I-Ingestibles"
+                    },
+                    {
+                        "lemma": "other",
+                        "word_id": 9,
+                        "word": "other",
+                        "pos": "JJ",
+                        "frame_element": "I-Ingestibles"
+                    },
+                    {
+                        "lemma": "UNK",
+                        "word_id": 10,
+                        "word": "reptiles",
+                        "pos": "NNS",
                         "frame_element": "I-Ingestibles"
                     }
                 ],
                 "target": {
+                    "lemma": "eat",
                     "frame": "Ingestion",
                     "word": "eat",
-                    "word_id": 11
+                    "pos": "VBP",
+                    "word_id": 3
                 }
             },
             {
                 "frame_elements": [
                     {
-                        "word_id": 14,
-                        "word": "i",
-                        "frame_element": "S-Theme"
+                        "lemma": "UNK",
+                        "word_id": 5,
+                        "word": "eggs",
+                        "pos": "NNS",
+                        "frame_element": "S-Food"
                     },
                     {
-                        "word_id": 16,
-                        "word": "home",
-                        "frame_element": "S-Goal"
-                    }
-                ],
-                "target": {
-                    "frame": "Motion",
-                    "word": "go",
-                    "word_id": 15
-                }
-            },
-            {
-                "frame_elements": [
-                    {
-                        "word_id": 16,
-                        "word": "home",
-                        "frame_element": "S-Building"
-                    }
-                ],
-                "target": {
-                    "frame": "Buildings",
-                    "word": "home",
-                    "word_id": 16
-                }
-            }
-        ],
-        "sentence_id": 0
-    },
-    {
-        "frames": [
-            {
-                "frame_elements": [
-                    {
-                        "word_id": 4,
-                        "word": "you",
-                        "frame_element": "S-Entity_1"
-                    },
-                    {
+                        "lemma": "of",
                         "word_id": 6,
-                        "word": "something",
-                        "frame_element": "B-Entity_2"
+                        "word": "of",
+                        "pos": "IN",
+                        "frame_element": "B-Type"
                     },
                     {
+                        "lemma": "bird",
                         "word_id": 7,
-                        "word": "to",
-                        "frame_element": "I-Entity_2"
+                        "word": "birds",
+                        "pos": "NNS",
+                        "frame_element": "I-Type"
                     },
                     {
+                        "lemma": "and",
                         "word_id": 8,
-                        "word": "eat",
-                        "frame_element": "I-Entity_2"
+                        "word": "and",
+                        "pos": "CC",
+                        "frame_element": "I-Type"
+                    },
+                    {
+                        "lemma": "other",
+                        "word_id": 9,
+                        "word": "other",
+                        "pos": "JJ",
+                        "frame_element": "I-Type"
+                    },
+                    {
+                        "lemma": "UNK",
+                        "word_id": 10,
+                        "word": "reptiles",
+                        "pos": "NNS",
+                        "frame_element": "I-Type"
                     }
                 ],
                 "target": {
-                    "frame": "Similarity",
-                    "word": "like",
+                    "lemma": "UNK",
+                    "frame": "Food",
+                    "word": "eggs",
+                    "pos": "NNS",
                     "word_id": 5
                 }
             },
             {
                 "frame_elements": [
                     {
-                        "word_id": 7,
-                        "word": "to",
-                        "frame_element": "B-Hedged_content"
+                        "lemma": "the",
+                        "word_id": 4,
+                        "word": "the",
+                        "pos": "DT",
+                        "frame_element": "B-Subset"
                     },
                     {
+                        "lemma": "UNK",
+                        "word_id": 5,
+                        "word": "eggs",
+                        "pos": "NNS",
+                        "frame_element": "I-Subset"
+                    },
+                    {
+                        "lemma": "bird",
+                        "word_id": 7,
+                        "word": "birds",
+                        "pos": "NNS",
+                        "frame_element": "B-Group"
+                    },
+                    {
+                        "lemma": "and",
                         "word_id": 8,
-                        "word": "eat",
-                        "frame_element": "I-Hedged_content"
+                        "word": "and",
+                        "pos": "CC",
+                        "frame_element": "I-Group"
+                    },
+                    {
+                        "lemma": "other",
+                        "word_id": 9,
+                        "word": "other",
+                        "pos": "JJ",
+                        "frame_element": "I-Group"
+                    },
+                    {
+                        "lemma": "UNK",
+                        "word_id": 10,
+                        "word": "reptiles",
+                        "pos": "NNS",
+                        "frame_element": "I-Group"
                     }
                 ],
                 "target": {
-                    "frame": "Hedging",
-                    "word": "something",
+                    "lemma": "of",
+                    "frame": "Partitive",
+                    "word": "of",
+                    "pos": "IN",
                     "word_id": 6
                 }
             },
             {
                 "frame_elements": [
                     {
-                        "word_id": 6,
-                        "word": "something",
-                        "frame_element": "S-Ingestor"
+                        "lemma": "bird",
+                        "word_id": 7,
+                        "word": "birds",
+                        "pos": "NNS",
+                        "frame_element": "S-Vehicle"
                     }
                 ],
                 "target": {
-                    "frame": "Ingestion",
-                    "word": "eat",
-                    "word_id": 8
+                    "lemma": "bird",
+                    "frame": "Vehicle",
+                    "word": "birds",
+                    "pos": "NNS",
+                    "word_id": 7
                 }
-            }
-        ],
-        "sentence_id": 1
-    },
-    {
-        "frames": [
+            },
             {
                 "frame_elements": [
                     {
-                        "word_id": 1,
-                        "word": "i",
-                        "frame_element": "S-Agent"
-                    },
-                    {
-                        "word_id": 4,
-                        "word": "thing",
-                        "frame_element": "B-Act"
-                    },
-                    {
-                        "word_id": 5,
-                        "word": "they",
-                        "frame_element": "I-Act"
-                    },
-                    {
-                        "word_id": 6,
-                        "word": "eat",
-                        "frame_element": "I-Act"
-                    },
-                    {
-                        "word_id": 7,
-                        "word": "unk",
-                        "frame_element": "I-Act"
-                    },
-                    {
-                        "word_id": 8,
-                        "word": "for",
-                        "frame_element": "B-Purpose"
-                    },
-                    {
-                        "word_id": 9,
-                        "word": "their",
-                        "frame_element": "I-Purpose"
-                    },
-                    {
+                        "lemma": "UNK",
                         "word_id": 10,
-                        "word": "breakfast",
-                        "frame_element": "I-Purpose"
+                        "word": "reptiles",
+                        "pos": "NNS",
+                        "frame_element": "S-Class"
                     }
                 ],
                 "target": {
-                    "frame": "Intentionally_act",
-                    "word": "do",
-                    "word_id": 2
-                }
-            },
-            {
-                "frame_elements": [
-                    {
-                        "word_id": 1,
-                        "word": "i",
-                        "frame_element": "S-Entity"
-                    },
-                    {
-                        "word_id": 4,
-                        "word": "thing",
-                        "frame_element": "S-Entity"
-                    }
-                ],
-                "target": {
-                    "frame": "Entity",
-                    "word": "thing",
-                    "word_id": 4
-                }
-            },
-            {
-                "frame_elements": [
-                    {
-                        "word_id": 1,
-                        "word": "i",
-                        "frame_element": "S-Ingestor"
-                    },
-                    {
-                        "word_id": 5,
-                        "word": "they",
-                        "frame_element": "S-Ingestor"
-                    },
-                    {
-                        "word_id": 7,
-                        "word": "unk",
-                        "frame_element": "S-Ingestibles"
-                    }
-                ],
-                "target": {
-                    "frame": "Ingestion",
-                    "word": "eat",
-                    "word_id": 6
-                }
-            },
-            {
-                "frame_elements": [
-                    {
-                        "word_id": 7,
-                        "word": "unk",
-                        "frame_element": "S-Cognizer"
-                    },
-                    {
-                        "word_id": 9,
-                        "word": "their",
-                        "frame_element": "B-Side"
-                    },
-                    {
-                        "word_id": 10,
-                        "word": "breakfast",
-                        "frame_element": "I-Side"
-                    }
-                ],
-                "target": {
-                    "frame": "Taking_sides",
-                    "word": "for",
-                    "word_id": 8
+                    "lemma": "other",
+                    "frame": "Increment",
+                    "word": "other",
+                    "pos": "JJ",
+                    "word_id": 9
                 }
             }
         ],
-        "sentence_id": 2
-    },
-    {
-        "frames": [
-            {
-                "frame_elements": [
-                    {
-                        "word_id": 1,
-                        "word": "what",
-                        "frame_element": "S-Agent"
-                    },
-                    {
-                        "word_id": 3,
-                        "word": "she",
-                        "frame_element": "B-Act"
-                    },
-                    {
-                        "word_id": 4,
-                        "word": "eat",
-                        "frame_element": "I-Act"
-                    }
-                ],
-                "target": {
-                    "frame": "Intentionally_act",
-                    "word": "did",
-                    "word_id": 2
-                }
-            },
-            {
-                "frame_elements": [
-                    {
-                        "word_id": 3,
-                        "word": "she",
-                        "frame_element": "S-Ingestor"
-                    }
-                ],
-                "target": {
-                    "frame": "Ingestion",
-                    "word": "eat",
-                    "word_id": 4
-                }
-            }
-        ],
-        "sentence_id": 3
-    },
-    {
-        "frames": [
-            {
-                "frame_elements": [
-                    {
-                        "word_id": 1,
-                        "word": "she",
-                        "frame_element": "S-Ingestor"
-                    },
-                    {
-                        "word_id": 3,
-                        "word": "porridge",
-                        "frame_element": "S-Ingestibles"
-                    }
-                ],
-                "target": {
-                    "frame": "Ingestion",
-                    "word": "ate",
-                    "word_id": 2
-                }
-            }
-        ],
-        "sentence_id": 4
+        "sentence_id": 0
     }
 ]
